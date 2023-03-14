@@ -3331,3 +3331,8 @@ input, select, textarea {
 .title {
 	text-transform: none;
 }
+
+#header {
+	margin-top: 0;
+	padding-top: 45px;
+}
